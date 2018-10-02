@@ -1,0 +1,78 @@
+body{
+	text-align: center;
+	background-color: #99ffff;
+
+
+}
+div p{
+	text-align: left;
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
+
+nav ul li{
+	float: right;
+	list-style-type: none;
+	
+}
+h1{
+	text-align: center;
+	clear: both;
+	color: blue;
+	text-decoration: underline;
+
+}
+
+h2{
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+
+}
+h3{
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+
+}
+
+img {
+border-radius:50%;
+max-width:100% ;
+margin: 0 auto; 
+display: block; 
+
+}
+.bright{
+	color: red;
+}
+.interesting ol li{
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: left;
+	
+	color: blue;
+
+  font: 400 30px/0.8 'Great Vibes', Helvetica, sans-serif;
+ 
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+
+div p.bright a.spl-linkb{
+	color:#ffff;
+	background:#FF7F24 ;
+	text-decoration: none;
+	border: 5px solid #FF7F24;
+	border-radius: 4%;
+
+}
+div p.bright a.spl-linka{
+	color:#ffff;
+	background:#99cccc ;
+	text-decoration: none;
+	border: 5px solid #99cccc;
+	border-radius: 4%;
+
+}
+
